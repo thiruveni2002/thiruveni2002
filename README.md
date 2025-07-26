@@ -9,7 +9,7 @@ I'm a passionate undergraduate student pursuing a Bachelor's degree in Informati
 
 * 🌍  I'm based in Colombo
 * ✉️  You can contact me at [thiruveni976@gmail.com](mailto:thiruveni976@gmail.com)
-* 🧠  I'm learning javascript and php currently
+* 🧠  I'm learning flutter and springboot currently
 * 🤝  I'm open to collaborating on web projects
 
 ### Skills
